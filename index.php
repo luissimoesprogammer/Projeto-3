@@ -2,7 +2,7 @@
     <div class="row"></div>
     <div class="col-md-12">
         <div class="jumbotron">
-        <h2>Seja bem vindo ao meu novo tema</h2>
+        <h2>Seja bem vindo ao meu novo tema!</h2>
             </div>
         </div>
         </div>
