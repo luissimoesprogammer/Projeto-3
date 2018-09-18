@@ -47,3 +47,8 @@ h2{
 .rodape{
     margin-top: 150px;
 }
+
+.foto img{
+    width: 100%;
+    height: 200px;
+}
