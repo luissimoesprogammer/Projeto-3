@@ -8,7 +8,7 @@ if (have_posts()) {
 <div class="row">
 	<div class = "col-md-12">
 	<div class="jumbotron">
-	<h2><?php  the_title(); ?></h2>
+	<h3><?php  the_title(); ?></h3>
 		</div>
 	</div>
 </div>

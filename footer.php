@@ -1,7 +1,7 @@
 
 <div class="row">
 <div class="col-md-12 rodape">
-    <p>Desenvolvido pelos hermanos</p>
+    <p>Desenvolvido pelos hermanitos</p>
         </div>
         </div>
         </div>
